@@ -73,4 +73,4 @@ See a full list of downloads here: https://github.com/sfx101/deck/releases
 [3. Accessing project shell](https://get-deck.com/docs/project-shell)
 
 ### Documentation
-https://getdeck.io/docs/
+https://get-deck.com/docs/
